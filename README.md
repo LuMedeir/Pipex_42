@@ -27,7 +27,6 @@ All errors like: wrong commands,  permission to files and etc, need be handle.
 | Rule         |                 Description                             |
 |:------------:|:-------------------------------------------------------:|
 | `make`       | Compile the program.                                    |
-| `make bonus` | Compile the bonus part of the program.                  |
 | `make clean` | Remove every objects of compilation                     |
 | `make fclean`| Do `clean` rule and remove the executable program       |
 | `make re`    | Do `fclean` rule and compile the program mandatory      |
